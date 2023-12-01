@@ -1,0 +1,18 @@
+/* Reset default margin and padding */
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  /* backgroundColor: #fff171 */
+}
+
+/* Set background color for the entire page */
+body {
+  background-color: rgb(142, 183, 164); /* Replace with your desired color */
+}
+
+/* Adjust height to fill the entire viewport */
+.background {
+  min-height: 100vh;
+  /* Other styles */
+}
